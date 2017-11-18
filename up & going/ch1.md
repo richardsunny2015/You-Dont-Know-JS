@@ -714,7 +714,7 @@ The `TAX_RATE` constant (variable) is accessible from inside the `calculateFinal
 
 ## Practice
 
-There is absolutely no substitute for practice in learning programming. No amount of articulate writing on my part is alone going to make you a programmer.
+BOOKMARKThere is absolutely no substitute for practice in learning programming. No amount of articulate writing on my part is alone going to make you a programmer.
 
 With that in mind, let's try practicing some of the concepts we learned here in this chapter. I'll give the "requirements," and you try it first. Then consult the code listing below to see how I approached it.
 
