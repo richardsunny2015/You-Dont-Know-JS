@@ -765,7 +765,7 @@ From here, go read the *Scope & Closures* title of this series for a much more i
 
 ## `this` Identifier
 
-Another very commonly misunderstood concept in JavaScript is the `this` identifier. Again, there's a couple of chapters on it in the *this & Object Prototypes* title of this series, so here we'll just briefly introduce the concept.
+BOOKMARK Another very commonly misunderstood concept in JavaScript is the `this` identifier. Again, there's a couple of chapters on it in the *this & Object Prototypes* title of this series, so here we'll just briefly introduce the concept.
 
 While it may often seem that `this` is related to "object-oriented patterns," in JS `this` is a different mechanism.
 
